@@ -58,3 +58,19 @@ Stage3
 
 Final
 * [Prototype demonstrations & Presentation](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Prototype-Demonstrations-&-Presentation)
+
+
+> ## Team 
+**Xinyu Tan**, our responsible Leader
+
+**Defeng Kong**, our reliable Developer
+
+**Yiyun Yu**, our passion speaker
+
+**Ge Tang**, our creative designer
+
+**Si Shen**, our imaginative designer
+
+**Jingxin Liu**, our lovely researcher 
+
+Each member also contributes to user research and prototype design process :)
